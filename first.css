@@ -96,15 +96,36 @@ a {
 }
 
 .second {
-    border-bottom: 150px solid skyblue;
-
+    border-bottom: 100px solid skyblue;
 }
+
+
 
 .thired {
     padding-left: 100px;
     display: flex;
+    border-bottom: 150px solid skyblue;
+
 }
 
-#limitation {
+.limitation {
     font-size: 40px;
+
+}
+
+.web-development {
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+.forth {
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.forth-para p {
+    padding-right: 30px;
+
 }

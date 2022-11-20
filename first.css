@@ -3,7 +3,7 @@ body {
     background-color: skyblue;
 }
 
-h1 {
+#heading {
     font-weight: bolder;
     font-size: 70px;
 }
@@ -85,4 +85,26 @@ a {
     margin-left: 50px;
     border-radius: 10px;
     text-align: justify;
+}
+
+.first-para h1 {
+    border-left: solid red;
+    border-width: 10px;
+    padding-left: 15px;
+    border-radius: 5px;
+
+}
+
+.second {
+    border-bottom: 150px solid skyblue;
+
+}
+
+.thired {
+    padding-left: 100px;
+    display: flex;
+}
+
+#limitation {
+    font-size: 40px;
 }
